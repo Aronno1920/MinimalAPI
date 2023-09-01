@@ -15,13 +15,9 @@
   <li>They might not provide the same level of customization and control as traditional REST APIs.</li>
 </ul>
 
-<h2>Topics Coverd: </h2>
-Why Minimal API
-	1. Minimal Core for API
-	2. Simple and Straightforward
-	3. More efficient than API
-	4. More features are being added
-Minimal API Fundamentals
-Validations in Minimal API
-Dependency Injection
-CRUD functionality in Minimal API
+<h2>Endpoint Attributes: </h2>
+<ul>
+  <li><strong>WithName:</strong> Specifies the name of the endpoint. This can be helpful for generating documentation or identifying endpoints programmatically.</li>
+  <li><strong>Produces:</strong> Specifies the content types that the endpoint can produce as responses. This attribute is used to indicate the types of data that the client can expect to receive from the server.</li>
+  <li><strong>Accepts:</strong> Specifies the content types that the endpoint can accept in requests. This attribute is used to indicate the types of data that the client can send to the server.</li>
+</ul>
