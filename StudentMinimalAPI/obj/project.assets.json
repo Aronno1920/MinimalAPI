@@ -474,11 +474,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Practice\\StudentMinimalAPI\\StudentMinimalAPI\\StudentMinimalAPI.csproj",
+      "projectUniqueName": "D:\\Practice\\StudentMinimalAPI\\MinimalAPI\\StudentMinimalAPI\\StudentMinimalAPI.csproj",
       "projectName": "StudentMinimalAPI",
-      "projectPath": "D:\\Practice\\StudentMinimalAPI\\StudentMinimalAPI\\StudentMinimalAPI.csproj",
+      "projectPath": "D:\\Practice\\StudentMinimalAPI\\MinimalAPI\\StudentMinimalAPI\\StudentMinimalAPI.csproj",
       "packagesPath": "C:\\Users\\Ahmed\\.nuget\\packages\\",
-      "outputPath": "D:\\Practice\\StudentMinimalAPI\\StudentMinimalAPI\\obj\\",
+      "outputPath": "D:\\Practice\\StudentMinimalAPI\\MinimalAPI\\StudentMinimalAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ahmed\\AppData\\Roaming\\NuGet\\NuGet.Config",

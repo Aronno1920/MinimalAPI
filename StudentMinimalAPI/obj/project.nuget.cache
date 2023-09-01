@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VMG5HokBegKVsZXv+xbIqmTWTF96A77/6mMsaKpqL+j45BJAd84XTiWBHb5A3qCzyPQ0nqUNF1KPYGlmkzKaHg==",
+  "dgSpecHash": "nk82M+n9YwcBYVflnrNEmTPBkpAP7kh1rWpMhYkTWXrjkSS9PcRM8E4Z/ddUX0R/RT4Wdl6p8zpIkdkgJ9G3mg==",
   "success": true,
-  "projectFilePath": "D:\\Practice\\StudentMinimalAPI\\StudentMinimalAPI\\StudentMinimalAPI.csproj",
+  "projectFilePath": "D:\\Practice\\StudentMinimalAPI\\MinimalAPI\\StudentMinimalAPI\\StudentMinimalAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ahmed\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.9\\microsoft.aspnetcore.openapi.7.0.9.nupkg.sha512",
     "C:\\Users\\Ahmed\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
