@@ -49,7 +49,7 @@ app.MapGet("/api/GetStudentsList", (ILogger<Program> _logger) =>
     response.StatusCode=HttpStatusCode.OK;
     
     return Results.Ok(response);
-}).WithName("StudentListWithCustomerResponse").Produces<IEnumerable<APIResponse >>(200);
+}).WithName("StudentListWithCustomResponse").Produces<IEnumerable<APIResponse >>(200);
 
 
 app.MapGet("/api/GetStudentById/{id:int}", (int Id) =>
